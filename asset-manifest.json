@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EdCert/static/css/main.18de8aef.chunk.css",
-    "main.js": "/EdCert/static/js/main.00dca242.chunk.js",
-    "main.js.map": "/EdCert/static/js/main.00dca242.chunk.js.map",
+    "main.js": "/EdCert/static/js/main.bc025154.chunk.js",
+    "main.js.map": "/EdCert/static/js/main.bc025154.chunk.js.map",
     "runtime-main.js": "/EdCert/static/js/runtime-main.d9b28bd2.js",
     "runtime-main.js.map": "/EdCert/static/js/runtime-main.d9b28bd2.js.map",
     "static/css/2.80dce9aa.chunk.css": "/EdCert/static/css/2.80dce9aa.chunk.css",
     "static/js/2.15fc3667.chunk.js": "/EdCert/static/js/2.15fc3667.chunk.js",
     "static/js/2.15fc3667.chunk.js.map": "/EdCert/static/js/2.15fc3667.chunk.js.map",
     "index.html": "/EdCert/index.html",
-    "precache-manifest.3c667440c32f3d093e18006d6eba0bfd.js": "/EdCert/precache-manifest.3c667440c32f3d093e18006d6eba0bfd.js",
+    "precache-manifest.a973841edf9a755cd63ca5f227f4a2b6.js": "/EdCert/precache-manifest.a973841edf9a755cd63ca5f227f4a2b6.js",
     "service-worker.js": "/EdCert/service-worker.js",
     "static/css/2.80dce9aa.chunk.css.map": "/EdCert/static/css/2.80dce9aa.chunk.css.map",
     "static/css/main.18de8aef.chunk.css.map": "/EdCert/static/css/main.18de8aef.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.80dce9aa.chunk.css",
     "static/js/2.15fc3667.chunk.js",
     "static/css/main.18de8aef.chunk.css",
-    "static/js/main.00dca242.chunk.js"
+    "static/js/main.bc025154.chunk.js"
   ]
 }
